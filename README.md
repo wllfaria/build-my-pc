@@ -197,6 +197,7 @@ Plug 'mhinz/vim-startify'								" Fancy Start Screen
 Plug 'chrisbra/Colorizer'								" Color hex and rgb highlight
 Plug 'editorconfig/editorconfig-vim'                                                    " Editorconfig for neovim                
 Plug 'styled-components/vim-styled-components'                                          " Styled components syntax highlight
+Plug 'alvan/vim-closetag'								" Auto close html tags
 
 " Theming Plugins
 Plug 'vim-airline/vim-airline'								" Airline status bar
